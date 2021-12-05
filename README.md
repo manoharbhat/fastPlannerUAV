@@ -1,4 +1,4 @@
-# fastplanneroctomap
+# fastplannerUAV
 
 
 ![Alt text](https://github.com/deepak-1530/FastPlannerOctomap/blob/main/FastPlanner_OctomapAvoidance.gif)
