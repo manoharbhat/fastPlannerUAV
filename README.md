@@ -13,6 +13,7 @@ CLICK THE IMAGE FOR SIMULATION VIDEO:
 [![IMAGE_ALT](https://img.youtube.com/vi/xpzdZVvVE0Y/0.jpg)](https://www.youtube.com/watch?v=xpzdZVvVE0Y)
 
 
+DEMO:
 
 ![Alt text](https://github.com/deepak-1530/FastPlannerOctomap/blob/main/FastPlanner_OctomapAvoidance.gif)
 ![Alt text](https://github.com/deepak-1530/FastPlannerOctomap/blob/main/GardenAvoidance.gif)
