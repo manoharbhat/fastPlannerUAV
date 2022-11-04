@@ -1,6 +1,19 @@
 # fastplannerUAV
 
 
+CLICK THE IMAGE FOR HARDWARE DEMONSTRATION:
+
+
+[![IMAGE_ALT](https://img.youtube.com/vi/tKgWVZjwxsk/0.jpg)](https://www.youtube.com/watch?v=tKgWVZjwxsk)
+
+
+CLICK THE IMAGE FOR SIMULATION VIDEO:
+
+
+[![IMAGE_ALT](https://img.youtube.com/vi/xpzdZVvVE0Y/0.jpg)](https://www.youtube.com/watch?v=xpzdZVvVE0Y)
+
+
+
 ![Alt text](https://github.com/deepak-1530/FastPlannerOctomap/blob/main/FastPlanner_OctomapAvoidance.gif)
 ![Alt text](https://github.com/deepak-1530/FastPlannerOctomap/blob/main/GardenAvoidance.gif)
 
