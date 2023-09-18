@@ -2,7 +2,7 @@
 ## UAV components
 
 <p align="left">
-  <img src="https://github.com/manoharbhat/fastPlannerUAV/blob/main/forward_drone.png" width=50% height=50%>
+  <img src="https://github.com/manoharbhat/fastPlannerUAV/main/forward_drone.png" width=50% height=50%>
 </p> 
 
 CLICK THE IMAGE FOR HARDWARE DEMONSTRATION:
