@@ -1,5 +1,9 @@
 # fastplannerUAV
+## UAV components
 
+<p align="left">
+  <img src="https://github.com/manoharbhat/Drone-Localization-in-GPS-denied-environments/blob/main/forward_drone.png" width=50% height=50%>
+</p> 
 
 CLICK THE IMAGE FOR HARDWARE DEMONSTRATION:
 
